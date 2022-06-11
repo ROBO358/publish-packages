@@ -15,5 +15,5 @@ jobs:
           username: ROBO358
           password: ${{ secrets.GITHUB_TOKEN }}
           registry: docker.pkg.github.com
-          repository: YOURNAME/publish-packages/game
+          repository: ROBO358/publish-packages/game
           tag_with_sha: true
